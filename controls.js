@@ -1,3 +1,5 @@
+//
+
 function strings(arr){
     for(let i=0;i<arr.length;i++){
         console.log(arr[i])
@@ -6,7 +8,7 @@ function strings(arr){
 let arr=["maureen","Joy"]
 strings(arr)
 
-
+//
 function multiplied(bby){
     bby.forEach(function(i){
         console.log(i*2)
